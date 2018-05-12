@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34300#Leonardo-da-VinciA-Psychosexual-Study-of-an-Infantile-Reminiscence
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
 identifiers:
